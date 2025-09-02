@@ -5,6 +5,8 @@
 ### I got 2 Repos on gitlab but i have signed non-disclosure agreement.. are those not my projects if i build them from base???
 ### Do i really have to upload everything on github???
 
+
+
 ## What I Know
 ### 1. Data Manipulation with Pandas and MySQL....And Postgres (need some practice there tho)
 ### 2. Data Cleaning and Visualizations with Excel and Power BI (need some work on complex DAX)
@@ -18,6 +20,8 @@
 ### 10. Few AWS features [S3, RDS, Lambda, Bedrock, Sagemaker, ECR, IAM]
 ### 11. OCR Pipelines for document and image processing
 ### Aint this enough?????
+
+
 
 
 ## About Me
